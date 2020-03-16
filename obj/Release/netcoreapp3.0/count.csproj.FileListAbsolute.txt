@@ -1,0 +1,11 @@
+C:\WORK\07.21MM\01.dotnet\VSCode02\count\bin\Release\netcoreapp3.0\count.exe
+C:\WORK\07.21MM\01.dotnet\VSCode02\count\bin\Release\netcoreapp3.0\count.deps.json
+C:\WORK\07.21MM\01.dotnet\VSCode02\count\bin\Release\netcoreapp3.0\count.runtimeconfig.json
+C:\WORK\07.21MM\01.dotnet\VSCode02\count\bin\Release\netcoreapp3.0\count.runtimeconfig.dev.json
+C:\WORK\07.21MM\01.dotnet\VSCode02\count\bin\Release\netcoreapp3.0\count.dll
+C:\WORK\07.21MM\01.dotnet\VSCode02\count\bin\Release\netcoreapp3.0\count.pdb
+C:\WORK\07.21MM\01.dotnet\VSCode02\count\obj\Release\netcoreapp3.0\count.csprojAssemblyReference.cache
+C:\WORK\07.21MM\01.dotnet\VSCode02\count\obj\Release\netcoreapp3.0\count.AssemblyInfoInputs.cache
+C:\WORK\07.21MM\01.dotnet\VSCode02\count\obj\Release\netcoreapp3.0\count.AssemblyInfo.cs
+C:\WORK\07.21MM\01.dotnet\VSCode02\count\obj\Release\netcoreapp3.0\count.dll
+C:\WORK\07.21MM\01.dotnet\VSCode02\count\obj\Release\netcoreapp3.0\count.pdb
