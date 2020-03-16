@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sayofuta.FUJI\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sayofuta.FUJI\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

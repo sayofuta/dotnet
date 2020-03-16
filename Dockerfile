@@ -1,2 +1,3 @@
 FROM ubuntu:18.04
-RUN echo "Hello World"
+COPY count/bin/Debug/netcoreapp3.0/publish/ count/
+ENTRYPOINT ["dotnet", "count/count.dll"]
